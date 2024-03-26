@@ -8,6 +8,6 @@ A glimpse of what I'm about:
 - 🌈 I'm passionate about combining my artistic inclinations with coding and software engineering
 - 👓 Check out my portfolio: https://alexandergabor.netlify.app/
 - 📫 How to reach me: Linkedin, email, or my #
-- ⚡ Fun fact: I had a pet rooster growing up
+- 🐓 Fun fact: I had a pet rooster growing up
 
 - [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,graphql,github,nodejs,figma,ai,bootstrap&theme=light)](https://skillicons.dev)
