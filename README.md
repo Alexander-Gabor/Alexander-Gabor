@@ -5,7 +5,7 @@ I'm a creative developer located in Sweden -- always striving to create, learn, 
 A glimpse of what I'm about:
 - 💻 Learning something new at the moment most likely
 - 🌱 I’m currently diving deep in TypeScript, Native, & staying up to date with React
-- 🌈 I'm passionate about combining my artistic inclinations into code
+- 🌈 I'm passionate about combining my artistic inclinations with coding and software engineering
 - 👓 Check out my portfolio: https://alexandergabor.netlify.app/
 - 📫 How to reach me: Linkedin, email, or my #
 - ⚡ Fun fact: I had a pet rooster growing up
