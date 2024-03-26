@@ -10,4 +10,4 @@ A glimpse of what I'm about:
 - 📫 How to reach me: Linkedin, email, or my #
 - ⚡ Fun fact: I had a pet rooster growing up
 
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,github,nodejs,figma,ai,bootstrap&theme=light)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,graphql,github,nodejs,figma,ai,bootstrap&theme=light)](https://skillicons.dev)
